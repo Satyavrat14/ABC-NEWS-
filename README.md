@@ -3,7 +3,7 @@ Built using HTML,CSS,JavaScript it is a clone of the one of the largest online p
 # Tech Used 
 This project has been completely made using pure **HTML**, **Javascript** and **CSS**.
 # Website
- https://satyavrat14.github.io/PayPal-clone/
+  https://satyavrat14.github.io/ABC-NEWS-/
 # Screenshots
 # Author
 **Satyavrat Mishra**
